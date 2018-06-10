@@ -11,9 +11,8 @@ The main purpose of this repository is to have a working database with mondial d
 
 
 TODO:
-	+ fixing other issues in data
-	+ try using FlyWay with the sql scripts
-
++ fixing other issues in data
++ try using FlyWay with the sql scripts
 
 \[WIP\]
 
